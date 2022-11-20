@@ -1,0 +1,18 @@
+div.publication{padding-top:10px;padding-bottom:80px}
+div.publication div.offset-2{padding-top:30px;}
+
+div.publication div.offset-1{padding-top:60px;}
+div.publication div.title{font-weight: bold;}
+div.publication div.text{max-width:750px;text-align:left;vertical-align:top}
+div.authors{font-size:100%;color:#777777}
+span.venue,span.highlight,
+div.publication span.tag{padding-right:0px;font-size:100%}
+span.highlight,
+span.highlight a:link,
+span.highlight a:visited{color:#BB2222}
+span.venue,
+span.venue a:link,
+span.venue a:visited{color:seagreen}
+span.fullvenue{padding-left:8px}
+div.anchor{border-top:50px solid transparent;margin-top:-50px}
+div.recruit{display:none}
