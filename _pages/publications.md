@@ -14,6 +14,39 @@ Here is an overview of my published research work.
 
 
 
+<div class="publication">
+  <img src="../images/stereo-nerf-demo.gif"
+      alt="MR Tunneling Demo" 
+      style="float: left; margin-right: 10px; height:200px;"/>
+  
+  <div class="title">Immersive Neural Graphics Primitives </div> 
+
+  <div class="authors">
+    <span class="author jw"><a>Ke Li*</a></span>,
+    <span class="author">Tim Rolff*</span>,
+    <span class="author">Susanne Schmidt</span>,
+    <span class="author">Reinhard Bacher</span>,
+    <span class="author">Simone Frintrop</span>,
+    <span class="author">Wim Leemans</span>,
+    <span class="author">Frank Steinicke</span>
+  </div>
+  <div>
+      *Equal contributions.
+  </div>
+  <div>
+    <span class="tag"><a href="https://arxiv.org/pdf/2211.13494.pdf">arxiv</a></span> /
+    <span class="tag"><a href="https://github.com/uhhhci/immersive-ngp">Code</a></span>
+  </div>
+
+  <div>
+      The first open-source VR NERF Unity package that brings high resolution, low-latency, 6-DOF NeRF rendering to VR based on Nvidia's instant-ngp.
+  </div>
+
+  <br>
+
+</div>
+
+
 
 
 
