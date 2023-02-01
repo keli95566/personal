@@ -68,7 +68,7 @@ Here is an overview of my published research work.
   
   <span class="venue"><a href="https://ismar2022.org/program-paper-presentations/">2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span>
   <div>
-    <span class="tag"><a href="">Paper</a href="https://ieeexplore.ieee.org/abstract/document/9995181/"> </span> /
+    <span class="tag"><a href="https://ieeexplore.ieee.org/abstract/document/9995181/">Paper </a> </span> /
     <span class="tag"><a href="https://github.com/keli95566/MRTunnelingPico">Code</a></span>
   </div>
 
@@ -109,7 +109,7 @@ Here is an overview of my published research work.
   </div>
 
   <div>
-      The first work of using a stereoscopic VST-HMD as laser safety goggles with evaluation by 14 laser experts from the Laser and Safety Technology group at DESY. 
+      The first work of using a stereoscopic VST-HMD as laser safety goggles with evaluation by 14 laser experts at DESY. 
   </div>
 </div>
 

@@ -27,7 +27,7 @@ Research Interests
 
 News & Updates
 --------
-20.01.2023: [Immersive-ngp](ttps://github.com/uhhhci/immersive-ngp) was accepted to [IEEE VR 2023](https://ieeevr.org/2023/) research demo track.
+20.01.2023: [Immersive-ngp](ttps://github.com/uhhhci/immersive-ngp) will appear at [IEEE VR 2023](https://ieeevr.org/2023/) research demo & poster session. 
 
 22.11.2022: My PhD project was featured at the **[DESY Science Day](https://indico.desy.de/event/36442/)** as scientific highlight. 
 
