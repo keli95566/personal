@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. fellow at the [Helmholz Graduate School for Structured of Matter (DASHH)](https://www.dashh.org/) supervised by Prof.Frank Steinicke, Dr. Reinhard Bacher, and Prof.Wim Leemans. 
+I am a third-year Ph.D. fellow at the [Helmholz Graduate School for Structured of Matter (DASHH)](https://www.dashh.org/) supervised by Prof.Frank Steinicke, Dr. Reinhard Bacher, and Prof.Wim Leemans. 
 
 In my Ph.D., I work interdisciplinary between the particle accelerator control system group at the [German Electron Synchrotron (DESY)](https://www.desy.de/) and the [Human Computer Interaction group](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the Hamburg University. I am developing mixed reality technology for operating large-scale physics facilities such as particle accelerators and high-power lasers.
 
@@ -27,6 +27,10 @@ Research Interests
 
 News & Updates
 --------
+30.08.2023: Checkout [the article](https://neuralradiancefields.io/magic-nerf-lens-marries-cad-files-and-nerfs-in-vr/) by NeRF.io about our Magic NeRF Lens paper. Thank you for sharing news about our work!
+
+15.08.2023: VRS-NeRF was accepted to ISMAR 2023 conference track! RealityGit was accepted to ISMAR student design competition finalist. Stay tune for our presentations & demo in Australia. :)
+
 20.01.2023: [Immersive-ngp](ttps://github.com/uhhhci/immersive-ngp) will appear at [IEEE VR 2023](https://ieeevr.org/2023/) research demo & poster session. 
 
 22.11.2022: My PhD project was featured at the **[DESY Science Day](https://indico.desy.de/event/36442/)** as scientific highlight. 
