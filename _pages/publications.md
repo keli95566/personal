@@ -30,7 +30,7 @@ author_profile: true
   </div>
 
   <div>
-    <span class="tag"><a href="https://arxiv.org/pdf/2211.13494.pdf">Paper</a></span>/
+    <span class="tag"><a href="https://arxiv.org/abs/2307.09860">Arxiv</a></span>/
     <span class="tag"><a href="https://github.com/uhhhci/immersive-ngp">Code</a></span>/
     <span class="tag"><a href="https://neuralradiancefields.io/magic-nerf-lens-marries-cad-files-and-nerfs-in-vr/">News </a></span>
   </div>
