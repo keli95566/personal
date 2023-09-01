@@ -157,7 +157,7 @@ author_profile: true
     <span class="author">Tünnermann, Andreas </span>,
     <span class="author">Kühmstedt, Peter</span>
   </div>
-    <span class="venue"><a href="https://diglib.eg.org/handle/10.2312/3dor20221179"> Eurographics Symposium on 3D Object Retrieval</a> / 
+    <span class="venue"><a href="https://diglib.eg.org/handle/10.2312/3dor20221179"> 2022 Eurographics Symposium on 3D Object Retrieval</a> / 
     <span class="tag"><a href="https://diglib.eg.org/handle/10.2312/3dor20221179">Paper</a></span>
     </span>
     <div>
