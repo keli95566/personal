@@ -7,9 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-Here is an overview of my previous research work.
 
-## Papers
+## Full Papers
 
 
 <link rel="stylesheet" href="../assets/css/publication_main.css">
@@ -37,7 +36,7 @@ Here is an overview of my previous research work.
   </div>
 
   <div>
-      Virtual inspection and maintenaince of particle accelerators by combining CAD models and NeRF models through different magic lens effects. 
+      Virtual inspection and maintenance of particle accelerators by combining CAD models and NeRF models through different magic lens effects. 
   </div>
 
   <br>
@@ -142,7 +141,7 @@ Here is an overview of my previous research work.
 
 
 
-  <div class="publication" stlye="padding-top:50px;">
+  <div class="publication" stlye="padding-top:20px;">
   <div class="offset-1">
   <img src="../images/single-shot.png"
       alt="MR Tunneling Demo" 
@@ -189,7 +188,7 @@ Here is an overview of my previous research work.
   </div>
 
   <div></div>
-    
+
   <div>
     <span class="tag">ISMAR 2023 Student Design Competition Finalist</span>
   </div>
