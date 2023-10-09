@@ -38,5 +38,3 @@ News & Updates
 15.10.2022: Attended my first international conference and presented two papers at the IEEE International Conference on Mixed and Augmented Reality ([ISMAR 2022](https://ismar2022.org/)) in Singapore.
 
 01.09.2022: Presented my master thesis *Single Shot Phase Shift 3D Scanning with Convolutional Neural Network and Synthetic Fractals* at the 2022 Eurographics Symposium on 3D Object Retrieval in Florence, Italy.
-
-20.06.2022: Accepted to the Israel exchange program funded by the Helmholtz Institute of Data Science ([HIDA](https://www.helmholtz-hida.de/en/new-horizons/israel-exchange-program/)). I will join Prof.Sarah Keren's artificial intelligence group at the Israel Institute of Technology (Technion) for 6 weeks. 
