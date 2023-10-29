@@ -27,6 +27,8 @@ Research Interests
 
 News & Updates
 --------
+20.10.2023: RealityGit received the **Honorable Mention for Best Student Design Award** at ISMAR 2023. Congratulations to my team!
+
 30.08.2023: Checkout [the article](https://neuralradiancefields.io/magic-nerf-lens-marries-cad-files-and-nerfs-in-vr/) by NeRF.io about our Magic NeRF Lens paper. Thank you for sharing news about our work!
 
 15.08.2023: VRS-NeRF was accepted to ISMAR 2023 conference track! RealityGit was accepted to ISMAR student design competition finalist. Stay tune for our presentations & demo in Australia. :)

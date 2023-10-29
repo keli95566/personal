@@ -190,15 +190,15 @@ author_profile: true
   <div></div>
 
   <div>
-    <span class="tag">ISMAR 2023 Student Design Competition Finalist</span>
+    <span class="award">Honorable Mention for Best Design at ISMAR 2023 Student Competition</span>
   </div>
   
   <div>
-      <span class="tag"><a href=" https://youtu.be/JtIMI3W0naw">Video Demo</a></span> 
+      <span class="tag"><a href="https://youtu.be/pMTXwRPchSY">Video Demo</a></span> 
   </div>
 
   <div>
-      Exploring ideas of using NeRF to support multi-user collaborations across the spatial-temporal domain. 
+      Exploring ideas of using NeRF to support multi-user collaborations across the spatial-temporal realities. 
   </div>
 
   <br>
