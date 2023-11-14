@@ -194,7 +194,10 @@ author_profile: true
   </div>
   
   <div>
-      <span class="tag"><a href="https://youtu.be/pMTXwRPchSY">Video Demo</a></span> 
+      <span class="tag"><a href="https://youtu.be/pMTXwRPchSY">Video Demo</a></span> /
+      <span class="tag"><a href="https://www.edit.fis.uni-hamburg.de/ws/files/45479864/2023_ISMAR_Student_Design_Competition_Final.pdf">Paper</a></span> 
+      
+
   </div>
 
   <div>
