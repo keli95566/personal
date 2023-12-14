@@ -14,6 +14,34 @@ author_profile: true
 <link rel="stylesheet" href="../assets/css/publication_main.css">
 
 <div class="publication">
+  <img src="../images/realityFusionDemo.gif"
+      alt="MR Tunneling Demo" 
+      style="float: left; margin-right: 10px; height:200px;"/>
+  
+  <div class="title">Reality Fusion: Robust Immersive Robot Teleoperation at Complex Semi-structured Environment</div> 
+
+  <div class="authors">
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author">Reinhard Bacher</span>,
+    <span class="author">Susanne Schmidt</span>,
+    <span class="author">Wim Leemans</span>,
+    <span class="author">Frank Steinicke</span>
+  </div>
+
+  <div>
+    Code & Paper coming soon..
+  </div>
+
+  <div>
+      A high performance and robust immersive robot teleoperation system that combines the best of both worlds: the high fidelity of neural rendering (3D Gaussian Splattings) and real-time stereoscopic point cloud projection. 
+  </div>
+
+  <br>
+
+</div>
+
+
+<div class="publication">
   <img src="../images/magicNeRFLens.gif"
       alt="MR Tunneling Demo" 
       style="float: left; margin-right: 10px; height:200px;"/>

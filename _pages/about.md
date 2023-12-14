@@ -40,3 +40,17 @@ News & Updates
 15.10.2022: Attended my first international conference and presented two papers at the IEEE International Conference on Mixed and Augmented Reality ([ISMAR 2022](https://ismar2022.org/)) in Singapore.
 
 01.09.2022: Presented my master thesis *Single Shot Phase Shift 3D Scanning with Convolutional Neural Network and Synthetic Fractals* at the 2022 Eurographics Symposium on 3D Object Retrieval in Florence, Italy.
+
+Invited Talks
+--------
+08.12.2023: 6th Round Table on Deep Learning at DESY, Hamburg, Germany;  " *Immersive Neural Graphics for Robot Teleoperation and Remote Inspection at Complex Physics Facilities*".
+
+28.11.2023: User Interface and System Technology  (UIST) Invited Lecture at Hamburg University; Hamburg, Germany; "3D Reconstruction & 3D Representations"
+
+20.10.2023: Tutorial on Neural Rendering, Sydney, Australia, ISMAR 2023; "*3D Gaussian Splatting for Immersive Extended Reality*"
+
+27.02.2023: International Conference on Laser Safety (ICLS), Portland, USA; "*Mixed Reality for Laser Safety at Advanced Optics Laboratories*"
+
+22.11.2022: DESY Science Day, Hamburg, Germany; "*Mixed Reality Research for Particle Accelerators*"
+
+26.04.2022: Opening Symposium for Center for Data and Computing in Natural Sciences (CDCS),  Hamburg, Germany; "*Taming Cyclops: Mixed Reality Head-Mounted Displays as Laser Safety Goggles for High-energy Optics Laboratories*"
