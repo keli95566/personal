@@ -27,6 +27,8 @@ Research Interests
 
 News & Updates
 --------
+15.01.2024: Start a short research stay at the [Cyber Interface Lab](https://www.cyber.t.u-tokyo.ac.jp/ja) at the University of Tokyo, Japan, working on a robot telepresence system. 
+
 20.10.2023: RealityGit received the **Honorable Mention for Best Student Design Award** at ISMAR 2023. Congratulations to my team!
 
 30.08.2023: Checkout [the article](https://neuralradiancefields.io/magic-nerf-lens-marries-cad-files-and-nerfs-in-vr/) by NeRF.io about our Magic NeRF Lens paper. Thank you for sharing news about our work!
