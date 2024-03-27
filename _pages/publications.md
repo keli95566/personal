@@ -92,9 +92,12 @@ author_profile: true
 
   </div>
   <div>
-    <span class="tag">Accepted/To appear at <a href="https://ismar23.org/">2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span> 
+    <span class="venue"><a href="https://ismar23.org/">2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span> 
   </div>
 
+  <div>
+      <span class="tag"><a href="https://www.inf.uni-hamburg.de/en/inst/ab/cv/media/rolf-etal-ismar2023-paper.pdf">Paper</a></span>
+  </div>
   <div>
       Lightning-fast VR-NeRF rendering with variable rate shading (VRS) utilizing characteristics of human vision (e.g. visual saliency,  gaze, edges).
   </div>
