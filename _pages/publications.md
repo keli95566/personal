@@ -61,7 +61,7 @@ author_profile: true
     <span class="tag"><a href="https://arxiv.org/abs/2307.09860">Arxiv</a></span>/
     <span class="tag"><a href="https://github.com/uhhhci/immersive-ngp">Code</a></span>/
     <span class="tag"><a href="https://neuralradiancefields.io/magic-nerf-lens-marries-cad-files-and-nerfs-in-vr/">News </a></span> /
-    <span class="tag">(To appear at Frontiers VR)</span>
+    <span class="tag">(Accepted/ To appear at Frontiers VR)</span>
   </div>
 
   <div>
