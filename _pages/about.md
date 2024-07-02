@@ -27,6 +27,8 @@ Research Interests
 
 News & Updates
 --------
+30.06.2024: One paper accepted to IROS 2024 as oral presentation! See you in Abu Dhabi!
+
 15.01.2024: Started a short research stay at the [Cyber Interface Lab](https://www.cyber.t.u-tokyo.ac.jp/ja) at the University of Tokyo, Japan, working on a robot telepresence system. Thank you Prof.Kuzuoka for hosting me!
 
 20.10.2023: RealityGit received the **Honorable Mention for Best Student Design Award** at ISMAR 2023. Congratulations to my team!

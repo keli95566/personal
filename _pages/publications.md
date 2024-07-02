@@ -28,9 +28,11 @@ author_profile: true
     <span class="author">Frank Steinicke</span>
   </div>
 
+  <span class="venue"><a href="">2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024, oral presentation) </a></span>
   <div>
-    Code & Paper coming soon..
+    paper& code coming soon.. 
   </div>
+
 
   <div>
       A high performance and robust immersive robot teleoperation system that combines the best of both worlds: the high fidelity of neural rendering (3D Gaussian Splattings) and real-time stereoscopic point cloud projection. 
@@ -58,10 +60,10 @@ author_profile: true
   </div>
 
   <div>
-    <span class="tag"><a href="https://arxiv.org/abs/2307.09860">Arxiv</a></span>/
+    <span class="tag"><a href="https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2024.1377245/full">Paper</a></span>/
     <span class="tag"><a href="https://github.com/uhhhci/immersive-ngp">Code</a></span>/
     <span class="tag"><a href="https://neuralradiancefields.io/magic-nerf-lens-marries-cad-files-and-nerfs-in-vr/">News </a></span> /
-    <span class="tag">(Accepted/ To appear at Frontiers VR)</span>
+    <span class="tag">Frontiers in Virtual Reality 2024</span>
   </div>
 
   <div>
