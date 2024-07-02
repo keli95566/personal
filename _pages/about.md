@@ -18,12 +18,11 @@ Before joining DASHH, I graduated from the Master of Photonics program at the Ab
 Research Interests
 --------
 
-- 🥽 mixed reality display / integrated visual systems
-- 🖥️ [immersive neural rendering](https://github.com/uhhhci/immersive-ngp) (e.g. NeRF)
-- 🧩 human centered artificial intelligence
-- 🤖 human-robot interaction in hazardous environment
-- ✨ mixed reality applications in scientific instruments and aerospace exploration 
-
+- 🕹️ mixed reality technology
+- 🥽 spatial computing
+- 🖥️ [immersive photorealistic rendering](https://github.com/uhhhci/immersive-ngp) (e.g. NeRF, 3DGS)
+- 👾 cognitive embodied agents/ robotics
+- 🤖 human-robot interaction
 
 News & Updates
 --------
