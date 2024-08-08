@@ -18,7 +18,7 @@ author_profile: true
       alt="MR Tunneling Demo" 
       style="float: left; margin-right: 10px; height:200px;"/>
   
-  <div class="title">Reality Fusion: Robust Immersive Robot Teleoperation at Complex Semi-structured Environment</div> 
+  <div class="title">Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion</div> 
 
   <div class="authors">
     <span class="author jw"><a>Ke Li</a></span>,
@@ -30,9 +30,10 @@ author_profile: true
 
   <span class="venue"><a href="">2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024, oral presentation) </a></span>
   <div>
-    paper& code coming soon.. 
+    <span class="tag"><a href="https://arxiv.org/abs/2408.01225">Paper</a></span>/
+    <span class="tag"><a href="https://github.com/uhhhci/RealityFusion">Code</a></span>/
+    <span class="tag"><a href="https://youtu.be/qrnzmbWyXRA">Video </a></span> 
   </div>
-
 
   <div>
       A high performance and robust immersive robot teleoperation system that combines the best of both worlds: the high fidelity of neural rendering (3D Gaussian Splattings) and real-time stereoscopic point cloud projection. 
@@ -50,6 +51,8 @@ author_profile: true
   
   <div class="title">Magic NeRF Lens: Interactive Fusion of Neural Radiance Field for Virtual Facility Inspections</div> 
 
+  <span class="venue"><a href="">Frontiers in Virtual Reality </a></span>
+
   <div class="authors">
     <span class="author jw"><a>Ke Li</a></span>,
     <span class="author">Susanne Schmidt</span>,
@@ -63,7 +66,8 @@ author_profile: true
     <span class="tag"><a href="https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2024.1377245/full">Paper</a></span>/
     <span class="tag"><a href="https://github.com/uhhhci/immersive-ngp">Code</a></span>/
     <span class="tag"><a href="https://neuralradiancefields.io/magic-nerf-lens-marries-cad-files-and-nerfs-in-vr/">News </a></span> /
-    <span class="tag">Frontiers in Virtual Reality 2024</span>
+        <span class="tag"><a href="https://youtu.be/2U4X-EaSds0">Video </a></span> 
+
   </div>
 
   <div>
@@ -131,7 +135,9 @@ author_profile: true
   <span class="venue"><a href="https://ismar2022.org/program-paper-presentations/">2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span>
   <div>
     <span class="tag"><a href="https://ieeexplore.ieee.org/abstract/document/9995181/">Paper </a> </span> /
-    <span class="tag"><a href="https://github.com/keli95566/MRTunnelingPico">Code</a></span>
+    <span class="tag"><a href="https://github.com/keli95566/MRTunnelingPico">Code</a></span> /
+    <span class="tag"><a href="https://youtu.be/yIDXRc3FDJA">Video</a></span>
+
   </div>
 
   <div>
@@ -164,7 +170,9 @@ author_profile: true
 
   <span class="venue"><a href="https://ismar2022.org/program-paper-presentations/">2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span>
   <div>
-    <span class="tag"><a href="https://ieeexplore.ieee.org/document/9995082">Paper</a></span>
+    <span class="tag"><a href="https://ieeexplore.ieee.org/document/9995082">Paper</a></span> /
+    <span class="tag"><a href="https://www.youtube.com/watch?v=Qj_CBB8wIVQ">Video</a></span> 
+
   </div>
 
   <div>
@@ -271,8 +279,9 @@ author_profile: true
   </div>
 
   <div>
-    <span class="tag"><a href="https://arxiv.org/pdf/2211.13494.pdf">arxiv</a></span> /
-    <span class="tag"><a href="https://github.com/uhhhci/immersive-ngp">Code</a></span>
+    <span class="tag"><a href="https://arxiv.org/pdf/2211.13494.pdf">Arxiv</a></span> /
+    <span class="tag"><a href="https://github.com/uhhhci/immersive-ngp">Code</a></span>/
+    <span class="tag"><a href="https://www.youtube.com/watch?v=VgAk_A1HTNw">Video</a></span>
   </div>
 
   <div>
