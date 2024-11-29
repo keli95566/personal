@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. fellow at the [Helmholz Graduate School for Structured of Matter (DASHH)](https://www.dashh.org/) supervised by Prof.Frank Steinicke, Dr. Reinhard Bacher, and Prof.Wim Leemans. 
+I am a postdoctoral researcher at the Human Computer Interaction group at the University of Hamburg led by Prof.Frank Steinicke, working on the European Union funded project [PRESENCE](https://presence-xr.eu/). 
 
-In my Ph.D., I work interdisciplinary between the particle accelerator control system group at the [German Electron Synchrotron (DESY)](https://www.desy.de/) and the [Human Computer Interaction group](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the Hamburg University. I am developing mixed reality technology for operating large-scale physics facilities such as particle accelerators and high-power lasers.
+I was a Ph.D. fellow at the [Helmholz Graduate School for Structured of Matter (DASHH)](https://www.dashh.org/) supervised by Prof.Frank Steinicke, Dr. Reinhard Bacher, and Prof.Wim Leemans. In my Ph.D., I work interdisciplinary between the particle accelerator control system group at the [German Electron Synchrotron (DESY)](https://www.desy.de/) and the [Human Computer Interaction group](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the Hamburg University. I am developing mixed reality technology for operating large-scale physics facilities such as particle accelerators and high-power lasers.
 
 
-Before joining DASHH, I graduated from the Master of Photonics program at the Abbe School of Photonics, where I had extensive training in applied and theoretical optics. During my master's study, I also worked as a research assistant at the **German Aerospace Center (DLR)**, and the **Fraunhofer Institute of Precision Engineering and Applied Optics**.
+Before joining DASHH, I graduated from the Master of Photonics program at the Abbe School of Photonics, where I had extensive training in applied and theoretical optics. During my master's study, I also worked as a research assistant at the German Aerospace Center (DLR), and the Fraunhofer Institute of Precision Engineering and Applied Optics.
 
 Research Interests
 --------
@@ -21,12 +21,19 @@ Research Interests
 - 🕹️ mixed reality technology
 - 🥽 spatial computing
 - 🖥️ [immersive photorealistic rendering](https://github.com/uhhhci/immersive-ngp) (e.g. NeRF, 3DGS)
-- 👾 cognitive embodied agents/ robotics
+- 👾 embodied agents/ robotics
 - 🤖 human-robot interaction
-
+  
 News & Updates
 --------
-30.06.2024: One paper accepted to IROS 2024 as oral presentation! See you in Abu Dhabi!
+
+01.11.2024: Started my postdoc at the University of Hamburg, working on the European Union funded project [PRESENCE](https://presence-xr.eu/).
+
+24.10.2024: Successfully defended my dissertation magna cum laude: "Towards a particle accelerator metaverse: mixed reality technology for operations of complex physics facilities"!  🎉🎉🎉
+
+14.10.2024: Attended IROS 2024 conference and gave a talk about **reality fusion** in the sensor fusion oral session. It was great to meet everyone in Abu Dhabi!
+
+30.06.2024: One paper accepted to **IROS 2024** as oral presentation! See you in Abu Dhabi!
 
 15.01.2024: Started a short research stay at the [Cyber Interface Lab](https://www.cyber.t.u-tokyo.ac.jp/ja) at the University of Tokyo, Japan, working on a robot telepresence system. Thank you Prof.Kuzuoka for hosting me!
 
