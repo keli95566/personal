@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
-
 I am a **mixed reality researcher** with a strong technical background and research interests in:
 
 - 🕹️ Mixed reality technology  
@@ -17,27 +15,15 @@ I am a **mixed reality researcher** with a strong technical background and resea
 - 👾 Embodied intelligent virtual agents
 - 🤖 Human–robot interaction
 
-### Current Role
-
-I am currently working as a **postdoctoral researcher** on the European Union–funded project [**PRESENCE**](https://presence-xr.eu/), where I serve on the technical committee and lead the development of **intelligent virtual human technologies**. My work focuses in particular on enabling **multimodal interaction** with virtual agents in immersive environments.
-
-### Doctoral Research
+I am currently working as a postdoctoral researcher on the European Union–funded project [PRESENCE](https://presence-xr.eu/), where I serve on the technical committee and lead the development of **intelligent virtual human technologies**. My work focuses in particular on enabling multimodal interaction with virtual agents in immersive environments.
 
 I completed my Ph.D. as a fellow of the [**Helmholtz Graduate School for the Structure of Matter (DASHH)**](https://www.dashh.org/), under the supervision of [Prof. Frank Steinicke](https://scholar.google.de/citations?user=bmRsMpUAAAAJ&hl=en), Dr. Reinhard Bacher, and [Prof. Wim Leemans](https://scholar.google.com/citations?user=_aSYAMEAAAAJ&hl=en).
 
-My research was conducted at the intersection of:
+My research was conducted at the intersection of: The Particle Accelerator Control Systems Group at the [**German Electron Synchrotron (DESY)**](https://www.desy.de/) and the [**Human–Computer Interaction Group**](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the University of Hamburg
 
-- The **Particle Accelerator Control Systems Group** at the [**German Electron Synchrotron (DESY)**](https://www.desy.de/)
-- The [**Human–Computer Interaction Group**](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the **University of Hamburg**
+During my PhD, I developed novel mixed reality technologies for operating large-scale physics infrastructures, including building video see-through head mounted displays, developing immersive neural rendering/radiance field rendering techniques, building a mobile robot and it's immersive teleoperation system.
 
-During my PhD, I developed novel **mixed reality technologies** for operating large-scale physics infrastructures, including building video see-through head mounted displays, developing immersive neural rendering/radiance field rendering techniques, building a mobile robot and it's immersive teleoperation system.
-
-### Academic Background
-
-Before joining DASHH, I earned my **M.Sc. in Photonics** from the **Abbe School of Photonics**, where I received extensive training in both **theoretical and applied optics**. During this time, I worked as a research assistant at:
-
-- The **German Aerospace Center (DLR)** – Institute of Data Science  
-- The **Fraunhofer Institute for Applied Optics and Precision Engineering**
+Before joining DASHH, I earned my M.Sc. in Photonics from the **Abbe School of Photonics**, where I received extensive training in both theoretical and applied optics. During this time, I worked as a research assistant at the*German Aerospace Center (DLR) – Institute of Data Science and the Fraunhofer Institute for Applied Optics and Precision Engineering.
 
 ---
 

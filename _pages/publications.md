@@ -7,9 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-<link rel="stylesheet" href="../assets/css/publication_main.css">
+
 
 ## 2025
+
+<link rel="stylesheet" href="../assets/css/publication_main.css">
 
 <div class="publication">
 <div class="publication">
@@ -102,7 +104,6 @@ author_profile: true
 </div>
 
 ## 2024
-
 
 <div class="publication">
   <img src="../images/realityFusionDemo.gif"
