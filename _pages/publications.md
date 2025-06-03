@@ -7,11 +7,102 @@ author_profile: true
 
 {% include base_path %}
 
-
-## Full Papers
-
-
 <link rel="stylesheet" href="../assets/css/publication_main.css">
+
+## 2025
+
+<div class="publication">
+<div class="publication">
+  <img src="../images/RD1053-ieeevr2025.gif"
+      alt="I Hear, See, Speak & Do Demo" 
+      style="float: left; margin-right: 10px; height:200px;"/>
+
+  <div class="title">I Hear, See, Speak & Do: Bringing Multimodal Information Processing to Intelligent Virtual Agents for Natural Human-AI Communication</div>
+
+  <div class="authors">
+    <span class="author jw"><a>Ke Li*</a></span>,
+    <span class="author">Fariba Mostajeran*</span>,
+    <span class="author">Sebastian Rings</span>,
+    <span class="author">Lucie Kruse</span>,
+    <span class="author">Susanne Schmidt</span>,
+    <span class="author">Michael Arz</span>,
+    <span class="author">Erik Wolf</span>,
+    <span class="author">Frank Steinicke</span>
+  </div>
+
+  <span class="venue">
+    <a href="https://doi.org/10.1109/VRW66409.2025.00469">2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW 2025)</a>
+  </span>
+
+  <div>
+    <span class="tag"><a href="https://doi.org/10.1109/VRW66409.2025.00469">Paper</a></span>/
+    <span class="tag"><a href="">Code coming soon</a></span>/
+    <span class="tag"><a href="https://www.youtube.com/watch?v=BTKCyC0GgXg">Video </a></span> 
+  </div>
+
+  <div>
+    This technical demo explores multimodal information processing techniques (e.g.facial expression, body actions) to enable intelligent virtual agents for natural human–AI communication in immersive extended reality environments.
+  </div>
+
+  <br>
+</div>
+
+
+
+<div class="publication">
+  <img src="../images/IEEEVR25_workshop_WP4_teaser.png"
+      alt="ieeevr25workshopteaser" 
+      style="float: left; margin-right: 10px; height:180px;"/>
+  
+  <div class="title">A Toolkit for Creating Intelligent Virtual Humans in Extended Reality</div> 
+
+  <div class="authors">
+    <span class="author">Fariba Mostajeran*</span>,
+    <span class="author jw"><a>Ke Li*</a></span>,
+    <span class="author">Sebastian Rings</span>,
+    <span class="author">Lucie Kruse</span>,
+    <span class="author">Erik Wolf</span>,            
+    <span class="author"></span>,
+    <span class="author">Susanne Schmidt</span>,
+    <span class="author"></span>,
+    <span class="author">Michael Arz</span>,
+    <span class="author"></span>,
+    <span class="author">Joan Llobera</span>,
+    <span class="author"></span>,
+    <span class="author">Pierre Nagorny</span>,
+    <span class="author"></span>,
+    <span class="author">Caecilia Charbonnier</span>,
+    <span class="author"></span>,
+    <span class="author">Hannes Fassold</span>,
+    <span class="author"></span>,
+    <span class="author">Xenxo Alvarez</span>,
+    <span class="author"></span>,
+    <span class="author">André Tavarest</span>,
+    <span class="author"></span>,
+    <span class="author">Nuno Santos</span>,
+    <span class="author"></span>,
+    <span class="author">João Orvalho</span>,
+    <span class="author"></span>,
+    <span class="author">Sergi Fernández</span>,
+    <span class="author"></span>,
+    <span class="author">Frank Steinicke</span>
+  </div>
+
+  <span class="venue"><a href="https://ieeexplore.ieee.org/abstract/document/10972741">2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)</a></span>
+
+  <div>
+    <span class="tag"><a href="https://ieeexplore.ieee.org/abstract/document/10972741">Paper</a></span>/
+    <span class="tag"><a href="">Code coming soon..</a></span>
+  </div>
+
+  <div>
+    This workshop paper presents the entire technical stack of the Intelligent Virtual Human technology developed within the EU project <a href="https://presence-xr.eu/"> PRESENCE </a>, including virtul human creation, real-time action recognition, physics based animation, and speech and facial interactions. 
+  </div>
+
+</div>
+
+## 2024
+
 
 <div class="publication">
   <img src="../images/realityFusionDemo.gif"
@@ -80,7 +171,7 @@ author_profile: true
 
 
 
-
+## 2023
 
 <div class="publication">
   <img src="../images/VRSNeRF.gif"
@@ -112,108 +203,6 @@ author_profile: true
 
 </div>
 
-
-
-
-
-
-<div class="publication">
-  <img src="../images/MRTunneling_Demo.gif"
-      alt="MR Tunneling Demo" 
-      style="float: left; margin-right: 10px; height:200px;"/>
-
-  <div class="title">Mixed Reality Tunneling Effects for Stereoscopic Untethered Video-See-Through Head-Mounted Displays </div> 
-
-  <div class="authors">
-    <span class="author jw"><a>Ke Li</a></span>,
-    <span class="author">Susanne Schmidt</span>,
-    <span class="author">Reinhard Bacher</span>,
-    <span class="author">Wim Leemans</span>,
-    <span class="author">Frank Steinicke</span>
-  </div>
-  
-  <span class="venue"><a href="https://ismar2022.org/program-paper-presentations/">2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span>
-  <div>
-    <span class="tag"><a href="https://ieeexplore.ieee.org/abstract/document/9995181/">Paper </a> </span> /
-    <span class="tag"><a href="https://github.com/keli95566/MRTunnelingPico">Code</a></span> /
-    <span class="tag"><a href="https://youtu.be/yIDXRc3FDJA">Video</a></span>
-
-  </div>
-
-  <div>
-      A novel sensor fusion technique that merges VST streams with various latency and resolution and leverages human's perceptual characteristics.
-  </div>
-</div>
-
-
-
-
-
-
-
-<div class="publication">
-  <img src="../images/laser-lab.gif"
-      alt="MR Tunneling Demo" 
-      style="float: left; margin-right: 10px; height:220px;"/>
-
-  <div class="title">Stereoscopic Video See-Through Head-Mounted Displays for Laser Safety: An Empirical Evaluation at Advanced Optics Laboratories </div> 
-
-  <div class="authors">
-    <span class="author jw"><a>Ke Li</a></span>,
-    <span class="author">Aradhana Choudhuri</span>,
-    <span class="author">Susanne Schmidt</span>,
-    <span class="author">Tino Lang</span>,
-    <span class="author">Ingmar Hartl</span>,
-    <span class="author">Wim Leemans</span>,
-    <span class="author">Frank Steinicke</span>
-  </div>
-
-  <span class="venue"><a href="https://ismar2022.org/program-paper-presentations/">2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span>
-  <div>
-    <span class="tag"><a href="https://ieeexplore.ieee.org/document/9995082">Paper</a></span> /
-    <span class="tag"><a href="https://www.youtube.com/watch?v=Qj_CBB8wIVQ">Video</a></span> 
-
-  </div>
-
-  <div>
-      The first work of using a stereoscopic VST-HMD as laser safety goggles with evaluation by 14 laser experts at DESY. 
-  </div>
-</div>
-
-
-
-
-  <div class="publication" stlye="padding-top:20px;">
-  <div class="offset-1">
-  <img src="../images/single-shot.png"
-      alt="MR Tunneling Demo" 
-      style="float: left; margin-right: 10px; height:140px;"/>
-
-  <div class="title">Single Shot Phase Shift 3D Scanning with Convolutional Neural Network and Synthetic Fractals</div> 
-
-  <div class="authors">
-    <span class="author jw"><a>Ke Li</a></span>,
-    <span class="author">Spehr, Marcel</span>,
-    <span class="author">Höhne, Daniel</span>,
-    <span class="author">Bräuer-Burchardt, Christian</span>,
-    <span class="author">Tünnermann, Andreas </span>,
-    <span class="author">Kühmstedt, Peter</span>
-  </div>
-    <span class="venue"><a href="https://diglib.eg.org/handle/10.2312/3dor20221179"> 2022 Eurographics Symposium on 3D Object Retrieval</a> / 
-    <span class="tag"><a href="https://diglib.eg.org/handle/10.2312/3dor20221179">Paper</a></span>
-    </span>
-    <div>
-        My master thesis work at the Fraunhofer IOF. 
-    </div>
-
-  </div>
-  </div>
-
-
-
-
-
-## Demo, Poster, and Workshop Contributions
 
 <div class="publication">
   <img src="../images/realityGit.gif"
@@ -295,6 +284,71 @@ author_profile: true
 
 
 
+## 2022
+
+<div class="publication">
+  <img src="../images/MRTunneling_Demo.gif"
+      alt="MR Tunneling Demo" 
+      style="float: left; margin-right: 10px; height:200px;"/>
+
+  <div class="title">Mixed Reality Tunneling Effects for Stereoscopic Untethered Video-See-Through Head-Mounted Displays </div> 
+
+  <div class="authors">
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author">Susanne Schmidt</span>,
+    <span class="author">Reinhard Bacher</span>,
+    <span class="author">Wim Leemans</span>,
+    <span class="author">Frank Steinicke</span>
+  </div>
+  
+  <span class="venue"><a href="https://ismar2022.org/program-paper-presentations/">2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span>
+  <div>
+    <span class="tag"><a href="https://ieeexplore.ieee.org/abstract/document/9995181/">Paper </a> </span> /
+    <span class="tag"><a href="https://github.com/keli95566/MRTunnelingPico">Code</a></span> /
+    <span class="tag"><a href="https://youtu.be/yIDXRc3FDJA">Video</a></span>
+
+  </div>
+
+  <div>
+      A novel sensor fusion technique that merges VST streams with various latency and resolution and leverages human's perceptual characteristics.
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="publication">
+  <img src="../images/laser-lab.gif"
+      alt="MR Tunneling Demo" 
+      style="float: left; margin-right: 10px; height:220px;"/>
+
+  <div class="title">Stereoscopic Video See-Through Head-Mounted Displays for Laser Safety: An Empirical Evaluation at Advanced Optics Laboratories </div> 
+
+  <div class="authors">
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author">Aradhana Choudhuri</span>,
+    <span class="author">Susanne Schmidt</span>,
+    <span class="author">Tino Lang</span>,
+    <span class="author">Ingmar Hartl</span>,
+    <span class="author">Wim Leemans</span>,
+    <span class="author">Frank Steinicke</span>
+  </div>
+
+  <span class="venue"><a href="https://ismar2022.org/program-paper-presentations/">2022 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a></span>
+  <div>
+    <span class="tag"><a href="https://ieeexplore.ieee.org/document/9995082">Paper</a></span> /
+    <span class="tag"><a href="https://www.youtube.com/watch?v=Qj_CBB8wIVQ">Video</a></span> 
+
+  </div>
+
+  <div>
+      The first work of using a stereoscopic VST-HMD as laser safety goggles with evaluation by 14 laser experts at DESY. 
+  </div>
+</div>
+
 
   <div class="publication" >
   <img src="../images/taming-cyclops.png"
@@ -311,7 +365,7 @@ author_profile: true
     <span class="author">Wim Leemans</span>,
     <span class="author">Frank Steinicke</span>
   </div>
-    <span class="venue"><a href="https://ieeexplore.ieee.org/document/9757385/">IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)</a> / 
+    <span class="venue"><a href="https://ieeexplore.ieee.org/document/9757385/">2022 IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR)</a> / 
     <span class="tag"><a href="https://ieeexplore.ieee.org/document/9757385/">Poster</a></span>
     </span>
     <div>
@@ -347,3 +401,30 @@ author_profile: true
 </div>
 </div>
 
+
+
+  <div class="publication" stlye="padding-top:20px;">
+  <div class="offset-1">
+  <img src="../images/single-shot.png"
+      alt="MR Tunneling Demo" 
+      style="float: left; margin-right: 10px; height:140px;"/>
+
+  <div class="title">Single Shot Phase Shift 3D Scanning with Convolutional Neural Network and Synthetic Fractals</div> 
+
+  <div class="authors">
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author">Spehr, Marcel</span>,
+    <span class="author">Höhne, Daniel</span>,
+    <span class="author">Bräuer-Burchardt, Christian</span>,
+    <span class="author">Tünnermann, Andreas </span>,
+    <span class="author">Kühmstedt, Peter</span>
+  </div>
+    <span class="venue"><a href="https://diglib.eg.org/handle/10.2312/3dor20221179"> 2022 Eurographics Symposium on 3D Object Retrieval</a> / 
+    <span class="tag"><a href="https://diglib.eg.org/handle/10.2312/3dor20221179">Paper</a></span>
+    </span>
+    <div>
+        My master thesis work at the Fraunhofer IOF. 
+    </div>
+
+  </div>
+  </div>

@@ -7,29 +7,60 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About Me
 
-I am a postdoctoral researcher at the Human Computer Interaction group at the University of Hamburg led by Prof.Frank Steinicke, working on the European Union funded project [PRESENCE](https://presence-xr.eu/). 
+I am a **mixed reality researcher** with a strong technical background and research interests in:
 
-I was a Ph.D. fellow at the [Helmholz Graduate School for Structured of Matter (DASHH)](https://www.dashh.org/) supervised by Prof.Frank Steinicke, Dr. Reinhard Bacher, and Prof.Wim Leemans. In my Ph.D., I work interdisciplinary between the particle accelerator control system group at the [German Electron Synchrotron (DESY)](https://www.desy.de/) and the [Human Computer Interaction group](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the Hamburg University. I am developing mixed reality technology for operating large-scale physics facilities such as particle accelerators and high-power lasers.
+- 🕹️ Mixed reality technology  
+- 🥽 Immersive head mounted display
+- 🖥️ [Immersive radiance field rendering](https://github.com/uhhhci/immersive-ngp) (e.g., NeRF, 3DGS)  
+- 👾 Embodied intelligent virtual agents
+- 🤖 Human–robot interaction
+
+### Current Role
+
+I am currently working as a **postdoctoral researcher** on the European Union–funded project [**PRESENCE**](https://presence-xr.eu/), where I serve on the technical committee and lead the development of **intelligent virtual human technologies**. My work focuses in particular on enabling **multimodal interaction** with virtual agents in immersive environments.
+
+### Doctoral Research
+
+I completed my Ph.D. as a fellow of the [**Helmholtz Graduate School for the Structure of Matter (DASHH)**](https://www.dashh.org/), under the supervision of [Prof. Frank Steinicke](https://scholar.google.de/citations?user=bmRsMpUAAAAJ&hl=en), Dr. Reinhard Bacher, and [Prof. Wim Leemans](https://scholar.google.com/citations?user=_aSYAMEAAAAJ&hl=en).
+
+My research was conducted at the intersection of:
+
+- The **Particle Accelerator Control Systems Group** at the [**German Electron Synchrotron (DESY)**](https://www.desy.de/)
+- The [**Human–Computer Interaction Group**](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the **University of Hamburg**
+
+During my PhD, I developed novel **mixed reality technologies** for operating large-scale physics infrastructures, including building video see-through head mounted displays, developing immersive neural rendering/radiance field rendering techniques, building a mobile robot and it's immersive teleoperation system.
+
+### Academic Background
+
+Before joining DASHH, I earned my **M.Sc. in Photonics** from the **Abbe School of Photonics**, where I received extensive training in both **theoretical and applied optics**. During this time, I worked as a research assistant at:
+
+- The **German Aerospace Center (DLR)** – Institute of Data Science  
+- The **Fraunhofer Institute for Applied Optics and Precision Engineering**
+
+---
+
+💼 I am actively exploring opportunities for roles such as **Research Scientist**, **Research Engineer**, or **Mixed/Virtual Reality Developer**—in both **academic** and **industry** settings.
+
+💡 I'm always open to **collaborations**, expanding my **network**, and contributing to exciting projects in **mixed reality**, **visual computing**, **computer graphics**, and **AI research**.
+
+📫 **Contact:** [keli95566@gmail.com](mailto:keli95566@gmail.com)  
+🔗 **GitHub:** [github.com/keli95566](https://github.com/keli95566)
 
 
-Before joining DASHH, I graduated from the Master of Photonics program at the Abbe School of Photonics, where I had extensive training in applied and theoretical optics. During my master's study, I also worked as a research assistant at the German Aerospace Center (DLR), and the Fraunhofer Institute of Precision Engineering and Applied Optics.
-
-Research Interests
---------
-
-- 🕹️ mixed reality technology
-- 🥽 spatial computing
-- 🖥️ [immersive photorealistic rendering](https://github.com/uhhhci/immersive-ngp) (e.g. NeRF, 3DGS)
-- 👾 embodied agents/ robotics
-- 🤖 human-robot interaction
-  
 News & Updates
 --------
 
-01.11.2024: Started my postdoc at the University of Hamburg, working on the European Union funded project [PRESENCE](https://presence-xr.eu/).
+08.03.2025: Presented the technical demo: [I Hear, See, Speak & Do: Bringing Multimodal Information Processing to Intelligent Virtual Agents for Natural Human-AI Communication](https://www.youtube.com/watch?v=BTKCyC0GgXg&feature=youtu.be) where over 50 participants spoke and interacted with an intelligent virtual agent representing myself in immersive VR!
 
-24.10.2024: Successfully defended my dissertation magna cum laude: "Towards a particle accelerator metaverse: mixed reality technology for operations of complex physics facilities"!  🎉🎉🎉
+08.03.2025: Presented one paper: [A Toolkit for Creating Intelligent Virtual Humans in Extended Reality](https://www.charbonnier.ch/pdf/publications/118.pdf) at IEEE Virtual Reality 9th Workshop on Virtual Humans and Crowds in Immersive Environments (VHCIE).
+
+08.03.2025: Organized and presented a tutorial [A Practical Guide to Radiance Fields for XR Research and Applications](https://mediated-reality.github.io/rf4xr/vr25tutorial/) at the IEEE VR 2025 conference together with Dr.Shohei Mori from VISUS, University of Stuttgart and Dr. Mana Masuda from Keio University, Japan. Thank you everyone for joining!
+
+01.11.2024: Started a postdoctoral position at the University of Hamburg, working on the European Union funded project [PRESENCE](https://presence-xr.eu/).
+
+24.10.2024: Successfully defended my dissertation magna cum laude: "[Towards a particle accelerator metaverse: mixed reality technology for operations of complex physics facilities](https://ediss.sub.uni-hamburg.de/handle/ediss/11310?mode=full)"!  🎉🎉🎉
 
 14.10.2024: Attended IROS 2024 conference and gave a talk about **reality fusion** in the sensor fusion oral session. It was great to meet everyone in Abu Dhabi!
 
