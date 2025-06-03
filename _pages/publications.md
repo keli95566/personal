@@ -103,6 +103,8 @@ author_profile: true
 
 </div>
 
+
+
 ## 2024
 
 <div class="publication">
@@ -172,7 +174,8 @@ author_profile: true
 
 
 
-## 2023
+
+##   2023
 
 <div class="publication">
   <img src="../images/VRSNeRF.gif"
@@ -285,7 +288,7 @@ author_profile: true
 
 
 
-## 2022
+##  2022
 
 <div class="publication">
   <img src="../images/MRTunneling_Demo.gif"
@@ -427,5 +430,4 @@ author_profile: true
         My master thesis work at the Fraunhofer IOF. 
     </div>
 
-  </div>
   </div>
