@@ -8,9 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-
-## 2025
-
 <link rel="stylesheet" href="../assets/css/publication_main.css">
 
 <div class="publication">
@@ -104,9 +101,6 @@ author_profile: true
 </div>
 
 
-
-## 2024
-
 <div class="publication">
   <img src="../images/realityFusionDemo.gif"
       alt="MR Tunneling Demo" 
@@ -171,11 +165,6 @@ author_profile: true
   <br>
 
 </div>
-
-
-
-
-##   2023
 
 <div class="publication">
   <img src="../images/VRSNeRF.gif"
@@ -245,9 +234,6 @@ author_profile: true
 
 
 
-
-
-
 <div class="publication">
   <img src="../images/stereo-nerf-demo.gif"
       alt="MR Tunneling Demo" 
@@ -287,8 +273,6 @@ author_profile: true
 
 
 
-
-##  2022
 
 <div class="publication">
   <img src="../images/MRTunneling_Demo.gif"
