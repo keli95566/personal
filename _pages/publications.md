@@ -10,11 +10,74 @@ author_profile: true
 
 <link rel="stylesheet" href="../assets/css/publication_main.css">
 
+## 2025
+
 <div class="publication">
+  <img src="../images/rf4xr_v3.jpg"
+      alt="RF4XR" 
+      style="float: left; margin-right: 10px; height:150px;"/>
+
+  <div class="title">Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research</div>
+
+  <div class="authors">
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author"><a href="https://llien30.github.io/">Mana Masuda</a></span>,
+    <span class="author"><a href="https://profiles.canterbury.ac.nz/Susanne-Schmidt">Susanne Schmidt</a></span>,
+    <span class="author"><a href="https://mugichoko445.github.io/">Shohei Mori</a></span>
+  </div>
+
+  <span class="venue">
+    <a href="https://www.ieeeismar.net/2025/">2025 IEEE Transaction on Visualization and Computer Graphics (TVCG) (to appear at ISMAR 25)</a>
+  </span>
+
+  <div>
+    <span class="tag"><a href="https://arxiv.org/abs/2508.04326">Paper (arxiv preprint)</a></span>/
+    <span class="tag"><a href="https://github.com/mediated-reality/awesome-rf4xr">Awesome RF4XR Repo</a></span>/
+    <span class="tag"><a href="https://mediated-reality.github.io/rf4xr/papers/li_tvcg25/">Project Page </a></span> 
+  </div>
+
+  <div> This survey paper aims to answer the following questions: i). how RF is envisioned for XR applications, (ii) how they have already been implemented, and (iii) the remaining research gaps through a systematic survey of radiance fields for XR of 365 papers.
+
+  </div>
+
+  <br>
+</div>
+
+
+<div class="publication">
+  <img src="../images/physics_iva_teaser.gif"
+      alt="I Hear, See, Speak & Do Demo" 
+      style="float: left; margin-right: 10px; height:190px;"/>
+
+  <div class="title">A Conversational Virtual Agent with Physics-based Interactive Behaviour</div>
+
+  <div class="authors">
+    <span class="author">Joan Llobera</span>,
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author">Pierre Nagorny</span>,
+    <span class="author"> Caecilia Charbonnier</span>
+    <span class="author"> Frank Steinicke</span>
+  </div>
+
+  <span class="venue">
+    <a href="https://www.ieeeismar.net/2025/">2025 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</a>
+  </span>
+
+  <div>
+    <span class="tag"><a href="">Paper coming soon...</a></span>/
+    <span class="tag"><a href="">Video demo coming soon...</a></span> 
+  </div>
+
+  <div> A technical demo showcasing the first embodied anthropomorphic intelligent virtual agent that can react to real-time physics-based events in standalone immersive VR experiences. (A collaboration with the [ARTANIM foundation](https://artanim.ch/))
+  </div>
+
+  <br>
+</div>
+
 <div class="publication">
   <img src="../images/RD1053-ieeevr2025.gif"
       alt="I Hear, See, Speak & Do Demo" 
-      style="float: left; margin-right: 10px; height:200px;"/>
+      style="float: left; margin-right: 10px; height: 190px;"/>
 
   <div class="title">I Hear, See, Speak & Do: Bringing Multimodal Information Processing to Intelligent Virtual Agents for Natural Human-AI Communication</div>
 
@@ -46,12 +109,80 @@ author_profile: true
   <br>
 </div>
 
+<div class="publication">
+  <img src="../images/interrupt_IVA.png"
+      alt="nuance" 
+      style="float: left; margin-right: 10px; height:210px;"/>
+
+  <div class="title">Effects of Verbal Interruption in Conversations with an Intelligent Virtual Agent in Virtual Reality</div>
+
+  <div class="authors">
+    <span class="author">David Egelhofer</span>,
+    <span class="author">Jiafan Gao</span>,
+    <span class="author">Nils Heinsohn</span>,
+    <span class="author">Sherwin Khabari</span>,
+    <span class="author">Lucie Kruse</span>,
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author">Fariba Mostajeran</span>,
+    <span class="author"> Frank Steinicke</span>
+  </div>
+
+  <span class="venue">
+    <a href="https://sui.acm.org/2025/"> Conditionally accepted at ACM Symposium on Spatial User Interface (SUI) 2025 </a>
+  </span>
+
+  <div>
+    <span class="tag"><a href="">Paper (coming soon..)</a></span>
+  </div>
+
+  <div> This is a student lead paper investigating the effects of granularity of being able to interrupt an intelligent virtual agent during a conversation in VR. 
+
+  </div>
+
+  <br>
+</div>
+
+
+<div class="publication">
+  <img src="../images/nuance.png"
+      alt="nuance" 
+      style="float: left; margin-right: 10px; height:175px;"/>
+
+  <div class="title">Nuance in Non-Verbal Communication: How Emotional Granularity Impacts Perception of Intelligent Virtual Agents in Virtual Reality</div>
+
+  <div class="authors">
+    <span class="author">Ayko Schwedler</span>,
+    <span class="author">Celestina Hermida da Costa</span>,
+    <span class="author">Leon Korkmaz</span>,
+    <span class="author">Rateb Karanzie</span>,
+    <span class="author">Lucie Kruse</span>,
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author">Fariba Mostajeran</span>,
+    <span class="author"> Frank Steinicke</span>
+  </div>
+
+  <span class="venue">
+    <a href="https://www.unai-ismar.tech/">Universal Augmented Interaction Workshop (UNAI)
+at the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2025 </a>
+  </span>
+
+  <div>
+    <span class="tag"><a href="">Paper (coming soon..)</a></span>
+  </div>
+
+  <div> This is a student lead paper investigating the effects of granularity of IVA's emotional expression on user perception when interacting with IVA in VR. 
+
+  </div>
+
+  <br>
+</div>
+
 
 
 <div class="publication">
   <img src="../images/IEEEVR25_workshop_WP4_teaser.png"
       alt="ieeevr25workshopteaser" 
-      style="float: left; margin-right: 10px; height:180px;"/>
+      style="float: left; margin-right: 10px; height:190px;"/>
   
   <div class="title">A Toolkit for Creating Intelligent Virtual Humans in Extended Reality</div> 
 
@@ -100,6 +231,7 @@ author_profile: true
 
 </div>
 
+## 2024
 
 <div class="publication">
   <img src="../images/realityFusionDemo.gif"
@@ -166,6 +298,7 @@ author_profile: true
 
 </div>
 
+## 2023
 <div class="publication">
   <img src="../images/VRSNeRF.gif"
       alt="MR Tunneling Demo" 
@@ -272,7 +405,7 @@ author_profile: true
 </div>
 
 
-
+## 2022
 
 <div class="publication">
   <img src="../images/MRTunneling_Demo.gif"

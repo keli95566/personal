@@ -15,7 +15,7 @@ I am a **mixed reality researcher** with a strong technical background and resea
 - 👾 Embodied intelligent virtual agents
 - 🤖 Human–robot interaction
 
-I am currently working as a postdoctoral researcher on the European Union–funded project [PRESENCE](https://presence-xr.eu/), where I serve on the technical committee and lead the development of **intelligent virtual human technologies**. My work focuses in particular on enabling multimodal interaction with virtual agents in immersive environments.
+I am currently working as a postdoctoral researcher on the European Union–funded project [PRESENCE](https://presence-xr.eu/), where I serve on the technical committee and lead the development of **intelligent virtual human technologies**. My work focuses in particular on enabling multimodal interaction with embodied virtual agents in immersive environments.
 
 I completed my Ph.D. as a fellow of the [**Helmholtz Graduate School for the Structure of Matter (DASHH)**](https://www.dashh.org/), under the supervision of [Prof. Frank Steinicke](https://scholar.google.de/citations?user=bmRsMpUAAAAJ&hl=en), Dr. Reinhard Bacher, and [Prof. Wim Leemans](https://scholar.google.com/citations?user=_aSYAMEAAAAJ&hl=en). My research was conducted at the intersection of: The Particle Accelerator Control Systems Group at the [**German Electron Synchrotron (DESY)**](https://www.desy.de/) and the [**Human–Computer Interaction Group**](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the University of Hamburg
 During my PhD, I developed novel mixed reality technologies for operating large-scale physics infrastructures, including building video see-through head mounted displays, developing immersive neural rendering/radiance field rendering techniques, building a mobile robot and it's immersive teleoperation system.
@@ -24,7 +24,7 @@ Before joining DASHH, I earned my M.Sc. in Photonics from the **Abbe School of P
 
 ---
 
-💼 I am actively exploring opportunities for roles such as **Research Scientist**, **Research Engineer**, or **Mixed/Virtual Reality Developer**—in both **academic** and **industry** settings.
+💼 I am actively exploring opportunities for roles such as **Research Scientist**, **Research Engineer**,  **Mixed/Virtual Reality Developer**, or **AI developer** in both **academic** and **industry** settings.
 
 💡 I'm always open to **collaborations**, expanding my **network**, and contributing to exciting projects in **mixed reality**, **visual computing**, **computer graphics**, and **AI research**.
 
@@ -34,6 +34,12 @@ Before joining DASHH, I earned my M.Sc. in Photonics from the **Abbe School of P
 
 News & Updates
 --------
+19.08.2025: Three contributions accepted/ to appear at IEEE ISMAR 2025! See you in South Korea! 
+  - TVCG (8% acceptance rate): [*Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research*](https://arxiv.org/abs/2508.04326) 
+  - Research demo: *A Conversational Virtual Agent with Physics-based Interactive Behaviour* (Come and check out the first embodied anthropomorphic intelligent virtual agent that can react to real-time physics-based events in standalone immersive VR experiences!)
+  -  UNAI workshop paper: *Nuance in Non-Verbal Communication: How Emotional Granularity Impacts Perception of Intelligent Virtual Agents in Virtual Reality*
+
+
 
 08.03.2025: Presented the technical demo: [I Hear, See, Speak & Do: Bringing Multimodal Information Processing to Intelligent Virtual Agents for Natural Human-AI Communication](https://www.youtube.com/watch?v=BTKCyC0GgXg&feature=youtu.be) where over 50 participants spoke and interacted with an intelligent virtual agent representing myself in immersive VR!
 
@@ -67,6 +73,15 @@ News & Updates
 
 Invited Talks
 --------
+
+01.07.2025: 4th General Assembly of PRESENCE, Amsterdam, Netherlands, *Intelligent Virtual Human Tehnology*.
+
+01.23.2025: 3th General Assembly of PRESENCE, Porto, Portugal, *Intelligent Virtual Human Tehnology*.
+
+08.03.2025: RF4XR Tutorial at IEEE VR 2025, *A Practical Guide to Radiance Fields for XR Research and Applications*
+
+11.11.2024: University of Stuttgart, VISUS group, *Towards a Particle Accelerator Metaverse: Developing Mixed Reality Technology for Operations of Complex Physics Facilities*.
+
 08.12.2023: 6th Round Table on Deep Learning at DESY, Hamburg, Germany;  " *Immersive Neural Graphics for Robot Teleoperation and Remote Inspection at Complex Physics Facilities*".
 
 28.11.2023: User Interface and System Technology  (UIST) Invited Lecture at Hamburg University; Hamburg, Germany; "3D Reconstruction & 3D Representations"
