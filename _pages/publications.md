@@ -233,6 +233,32 @@ at the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2025 
 
 ## 2024
 
+
+
+<div class="publication">
+  <img src="../images/accelerator_metaverse.png"
+      alt="MR Tunneling Demo" 
+      style="float: left; margin-right: 10px; height:175px;"/>
+  
+  <div class="title">Towards a Particle Accelerator Metaverse: Mixed Reality Interfaces for Operations of Complex Physics Facilities </div> 
+
+  <div class="authors">
+    <span class="author jw"><a>Ke Li</a></span>,
+    <span class="author">Reinhard Bacher (Supervisor)</span>,
+    <span class="author">Wim Leemans (Supervisor) </span>,
+    <span class="author">Frank Steinicke (Supervisor) </span>
+  </div>
+  <div>
+    <span class="tag"><a href="https://ediss.sub.uni-hamburg.de/handle/ediss/11310">PhD Dissertation</a></span>
+  </div>
+
+  <div>  As a first step towards a particle accelerator metaverse, this dissertation explored how MR can be used to improve workflows for users working in extreme, complex, and hazardous conditions such as high-energy laser facilities and particle accelerator tunnels while contributing to the advancement of MR technology in general.
+  </div>
+
+  <br>
+
+</div>
+
 <div class="publication">
   <img src="../images/realityFusionDemo.gif"
       alt="MR Tunneling Demo" 
