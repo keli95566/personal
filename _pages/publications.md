@@ -128,13 +128,11 @@ author_profile: true
   </div>
 
   <span class="venue">
-    <a href="https://sui.acm.org/2025/"> Conditionally accepted at ACM Symposium on Spatial User Interface (SUI) 2025 </a>
+    <a href="https://sui.acm.org/2025/"> ACM Symposium on Spatial User Interface (SUI) 2025 </a>
   </span>
-
   <div>
     <span class="tag"><a href="https://dl.acm.org/doi/10.1145/3694907.3765918">Paper</a></span>
   </div>
-
   <div> This is a student lead paper investigating the effects of granularity of being able to interrupt an intelligent virtual agent during a conversation in VR. 
 
   </div>
@@ -162,14 +160,11 @@ author_profile: true
   </div>
 
   <span class="venue">
-    <a href="https://www.unai-ismar.tech/">Universal Augmented Interaction Workshop (UNAI)
-at the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2025 </a>
+    <a href="https://www.unai-ismar.tech/">Universal Augmented Interaction Workshop (UNAI) at the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2025 </a>
   </span>
-
   <div>
     <span class="tag"><a href="https://ieeexplore.ieee.org/document/11236122">Paper</a></span>
   </div>
-
   <div> This is a student lead paper investigating the effects of granularity of IVA's emotional expression on user perception when interacting with IVA in VR. 
 
   </div>
