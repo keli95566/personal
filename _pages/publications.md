@@ -27,11 +27,11 @@ author_profile: true
   </div>
 
   <span class="venue">
-    <a href="https://www.ieeeismar.net/2025/">2025 IEEE Transaction on Visualization and Computer Graphics (TVCG) (to appear at ISMAR 25)</a>
+    <a href="https://www.ieeeismar.net/2025/">2025 IEEE Transaction on Visualization and Computer Graphics (TVCG) </a>
   </span>
 
   <div>
-    <span class="tag"><a href="https://arxiv.org/abs/2508.04326">Paper (arxiv preprint)</a></span>/
+    <span class="tag"><a href="https://ieeexplore.ieee.org/document/11189879/">Paper</a></span>/
     <span class="tag"><a href="https://github.com/mediated-reality/awesome-rf4xr">Awesome RF4XR Repo</a></span>/
     <span class="tag"><a href="https://mediated-reality.github.io/rf4xr/papers/li_tvcg25/">Project Page </a></span> 
   </div>
@@ -64,8 +64,8 @@ author_profile: true
   </span>
 
   <div>
-    <span class="tag"><a href="">Paper coming soon...</a></span>/
-    <span class="tag"><a href="">Video demo coming soon...</a></span> 
+    <span class="tag"><a href="https://ieeexplore.ieee.org/document/11236524">Paper</a></span>/
+    <span class="tag"><a href="https://youtu.be/7PpGLah1TW8">Video demo</a></span> 
   </div>
 
   <div> A technical demo showcasing the first embodied anthropomorphic intelligent virtual agent that can react to real-time physics-based events in standalone immersive VR experiences. (A collaboration with the [ARTANIM foundation](https://artanim.ch/))
@@ -98,7 +98,7 @@ author_profile: true
 
   <div>
     <span class="tag"><a href="https://doi.org/10.1109/VRW66409.2025.00469">Paper</a></span>/
-    <span class="tag"><a href="">Code coming soon</a></span>/
+    <span class="tag"><a href="https://github.com/uhhhci/intelligent-virtual-agent-sdk">Code</a></span>/
     <span class="tag"><a href="https://www.youtube.com/watch?v=BTKCyC0GgXg">Video </a></span> 
   </div>
 
@@ -132,7 +132,7 @@ author_profile: true
   </span>
 
   <div>
-    <span class="tag"><a href="">Paper (coming soon..)</a></span>
+    <span class="tag"><a href="https://dl.acm.org/doi/10.1145/3694907.3765918">Paper</a></span>
   </div>
 
   <div> This is a student lead paper investigating the effects of granularity of being able to interrupt an intelligent virtual agent during a conversation in VR. 
@@ -167,7 +167,7 @@ at the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2025 
   </span>
 
   <div>
-    <span class="tag"><a href="">Paper (coming soon..)</a></span>
+    <span class="tag"><a href="https://ieeexplore.ieee.org/document/11236122">Paper</a></span>
   </div>
 
   <div> This is a student lead paper investigating the effects of granularity of IVA's emotional expression on user perception when interacting with IVA in VR. 
@@ -222,7 +222,7 @@ at the IEEE International Symposium on Mixed and Augmented Reality (ISMAR) 2025 
 
   <div>
     <span class="tag"><a href="https://ieeexplore.ieee.org/abstract/document/10972741">Paper</a></span>/
-    <span class="tag"><a href="">Code coming soon..</a></span>
+    <span class="tag"><a href="https://github.com/uhhhci/intelligent-virtual-agent-sdk">Code</a></span>
   </div>
 
   <div>

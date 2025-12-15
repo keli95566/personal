@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+### Research Interests
+
 I am a **mixed reality researcher** with a strong technical background and research interests in:
 
 - 🕹️ Mixed reality technology  
@@ -14,15 +16,6 @@ I am a **mixed reality researcher** with a strong technical background and resea
 - 🖥️ [Immersive radiance field rendering](https://github.com/uhhhci/immersive-ngp) (e.g., NeRF, 3DGS)  
 - 👾 Embodied intelligent virtual agents
 - 🤖 Human–robot interaction
-
-I am currently working as a postdoctoral researcher on the European Union–funded project [PRESENCE](https://presence-xr.eu/), where I serve on the technical committee and lead the development of **intelligent virtual human technologies**. My work focuses in particular on enabling multimodal interaction with embodied virtual agents in immersive environments.
-
-I completed my Ph.D. as a fellow of the [**Helmholtz Graduate School for the Structure of Matter (DASHH)**](https://www.dashh.org/), under the supervision of [Prof. Frank Steinicke](https://scholar.google.de/citations?user=bmRsMpUAAAAJ&hl=en), Dr. Reinhard Bacher, and [Prof. Wim Leemans](https://scholar.google.com/citations?user=_aSYAMEAAAAJ&hl=en). My research was conducted at the intersection of: The Particle Accelerator Control Systems Group at the [**German Electron Synchrotron (DESY)**](https://www.desy.de/) and the [**Human–Computer Interaction Group**](https://www.inf.uni-hamburg.de/en/inst/ab/hci/people.html) at the University of Hamburg
-During my PhD, I developed novel mixed reality technologies for operating large-scale physics infrastructures, including building video see-through head mounted displays, developing immersive neural rendering/radiance field rendering techniques, building a mobile robot and it's immersive teleoperation system.
-
-Before joining DASHH, I earned my M.Sc. in Photonics from the **Abbe School of Photonics**, where I received extensive training in both theoretical and applied optics. During this time, I worked as a research assistant at the*German Aerospace Center (DLR) – Institute of Data Science and the Fraunhofer Institute for Applied Optics and Precision Engineering.
-
----
 
 💼 I am actively exploring opportunities for roles such as **Research Scientist**, **Research Engineer**,  **Mixed/Virtual Reality Developer**, or **AI developer** in both **academic** and **industry** settings.
 
@@ -32,8 +25,52 @@ Before joining DASHH, I earned my M.Sc. in Photonics from the **Abbe School of P
 🔗 **GitHub:** [github.com/keli95566](https://github.com/keli95566)
 
 
+### 🎓 Postdoctoral Research (2024–Present)
+**Postdoctoral Researcher**, University of Hamburg  
+EU Horizon Project **[PRESENCE](https://presence-xr.eu/)**
+
+Postdoctoral researcher and technical committee member of the EU-funded PRESENCE project, leading the **Intelligent Virtual Human / Agent** pillar. My work focuses on **multimodal interaction with embodied intelligent agents in immersive XR environments**.
+
+
+
+### 🎓 Doctoral Research (2021–2024)
+**Ph.D. in Computer Science**, University of Hamburg (Grade: 1.0)  
+Fellow, **[Helmholtz Graduate School for the Structure of Matter (DASHH)](https://www.dashh.org/).** PhD research conducted jointly at **DESY** and the **Human–Computer Interaction Group, University of Hamburg**, under the supervision of Prof. Frank Steinicke, Dr. Reinhard Bacher, and Prof. Wim Leemans.
+
+**Focus & Contributions**
+- Mixed reality systems for operating large-scale physics infrastructures  
+- Video see-through head-mounted display design and development
+- Immersive neural rendering and radiance-field–based inspection  
+- Mobile robot development and immersive teleoperation interfaces
+
+
+### 🎓 Master’s Education (2018–2021)
+**M.Sc. in Photonics**, Friedrich Schiller University Jena  
+**Abbe School of Photonics**
+
+Graduate training in theoretical and applied optics, with interdisciplinary research spanning photonics, computer vision, and machine learning.
+Meanwhile, I worked as a research assistants at: German Aerospace Center (DLR), Institute of Data Science and Fraunhofer Institute for Applied Optics and Precision Engineering (IOF).
+
+
+### 🎓 Bachelor’s Education (2014–2018)
+**B.Sc. in Physics**, Centre College, USA
+
+Undergraduate education in physics and mathematics, complemented by teaching experience as a **Physics Teaching Assistant** for calculus-based general physics courses.
+
+
+### 🏆 Selected Honors
+- **DESY VFFD PhD Award (2025)** – Annual award for outstanding PhD theses at DESY
+- **DASHH PhD Fellowship (2021–2024)** – Competitive Helmholtz fellowship  
+
+
 News & Updates
 --------
+
+10.2025-12.2025: conducted a research stay at the [HIT Lab](https://www.hitlabnz.org/) in Christchurch, New Zealand. Thank you for hosting me!
+
+05.11.2025: I received the [DESY VFFD PhD award](https://vffd.desy.de/award/index_eng.html) this year for my PhD dissertation "Towards a Particle Accelerator Metaverse"! What a great honor!
+
+
 19.08.2025: Three contributions accepted/ to appear at IEEE ISMAR 2025! See you in South Korea! 
   - TVCG (8% acceptance rate): [*Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned and Addressed for XR Research*](https://arxiv.org/abs/2508.04326) 
   - Research demo: *A Conversational Virtual Agent with Physics-based Interactive Behaviour* (Come and check out the first embodied anthropomorphic intelligent virtual agent that can react to real-time physics-based events in standalone immersive VR experiences!)
