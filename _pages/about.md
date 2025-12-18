@@ -45,8 +45,7 @@ Fellow, **[Helmholtz Graduate School for the Structure of Matter (DASHH)](https:
 
 
 ### 🎓 Master’s Education (2018–2021)
-**M.Sc. in Photonics**, Friedrich Schiller University Jena  
-**Abbe School of Photonics**
+**M.Sc. in Photonics**, Friedrich Schiller University Jena  , **Abbe School of Photonics**
 
 Graduate training in theoretical and applied optics, with interdisciplinary research spanning photonics, computer vision, and machine learning.
 Meanwhile, I worked as a research assistants at: German Aerospace Center (DLR), Institute of Data Science and Fraunhofer Institute for Applied Optics and Precision Engineering (IOF).
@@ -65,6 +64,7 @@ Undergraduate education in physics and mathematics, complemented by teaching exp
 
 News & Updates
 --------
+09.2025-12.2025: served on the international program committee at IEEE VR 26. Thank you very much for your trust!
 
 10.2025-12.2025: conducted a research stay at the [HIT Lab](https://www.hitlabnz.org/) in Christchurch, New Zealand. Thank you for hosting me!
 
